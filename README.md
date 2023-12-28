@@ -4,7 +4,7 @@ Submitted by: **Sycamore Dennis**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **7** hours spent in total
+Time spent: **~9** hours spent in total
 
 ## Required Features
 
@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 * [x] The introduction section explains the background of the company and how many games remain unfunded.
 * [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding.
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
@@ -35,7 +35,9 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Around challenge three, I spent a lot of time trying to diagnose an issue with my for-loop, which turned out to be just a poor placement of brackets. 
+
+Customizing the color scheme while maintaining good contrast took a bit of time. If I were to continue with this project, I would want to figure out how to make the local navigation bar stick to the top of the screen as the user scrolls. 
 
 ## License
 
