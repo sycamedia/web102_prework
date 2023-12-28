@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='./prework-web102.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with <a href="https://www.cockos.com/licecap/>Licecap<a>
+GIF created with <a href="https://www.cockos.com/licecap/">Licecap</a>
 
 ## Notes
 
