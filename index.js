@@ -44,7 +44,7 @@ function addGamesToPage(games) {
         <img src=${game.img} />
         <h1>${game.name}</h1>
         <p>${game.description}</p>
-        <p>Pledged: ${game.pledged} of ${game.goal} goal`;
+        <p class="pledge-status">Pledged: ${game.pledged} of ${game.goal} goal</p>`;
 
         // append the game to the games-container
         gamesContainer.append(newDiv);
