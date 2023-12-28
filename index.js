@@ -42,7 +42,7 @@ function addGamesToPage(games) {
         // between the end of the src attribute and the end of the tag ("/>")
         newDiv.innerHTML = `
         <img src=${game.img} />
-        <h1>${game.name}</h1>
+        <h3>${game.name}</h3>
         <p>${game.description}</p>
         <p class="pledge-status">Pledged: ${game.pledged} of ${game.goal} goal</p>`;
 
